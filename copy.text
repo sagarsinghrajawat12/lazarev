@@ -1,0 +1,99 @@
+      <div id="navbottom">
+            <div class="bottomdiv">
+                <h5><span>Case studies</span></h5>
+            </div>
+            <div class="bottomdiv">
+                <h5><span>AI & ML</span></h5>
+                <h5><span>FinTech</span></h5>
+                <h5><span>RealEstate</span></h5>
+                <h5><span>E-commerce</span></h5>
+                <h5><span>Web3</span></h5>
+            </div>
+            <div class="bottomdiv">
+                <h5><span>FinTech</span></h5>
+                <h5><span>RealState</span></h5>
+                <h5><span>E-commerce</span></h5>
+                <h5><span>Web3</span></h5>
+            </div>
+            <div class="bottomdiv">
+                <h5><span>FinTech</span></h5>
+                <h5><span>RealState</span></h5>
+                <h5><span>E-commerce</span></h5>
+                <h5><span>Web3</span></h5>
+            </div>
+            <div class="bottomdiv">
+                <h5><span>FinTech</span></h5>
+                <h5><span>RealState</span></h5>
+
+            </div>
+            <div class="bottomdiv">
+                <h5><span>FinTech</span></h5>
+                <h5><span>RealState</span></h5>
+                <h5></h5>
+                <h5><span>Web3</span></h5>
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        css
+
+
+        nav:hover #navbottom{
+    height: 200%;
+    bottom: -200%;
+    background-color: #111;
+    transition: all ease 0.65s;
+}
+
+
+#navbottom{
+    height: 0%;
+    width: 80%;
+    bottom: 0%;
+    position: absolute;
+    border-bottom: 1px solid #dadada;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 2vw 15vw;
+    padding-left: 16vw;
+    padding-top: 3vw;
+}
+.bottomdiv{
+   margin-top: 2vw;
+    
+}
+
+.bottomdiv>h5>span{
+    font-size: 0.76vw;
+    display: inline-block;
+    font-weight: 500;
+    opacity: 0;
+}
+.bottomdiv>h5{
+    margin-bottom: 0.4vw;
+}
+#page2-left{
+    width: 40%;
+    background-color: #10a729;
+    height: 100%
+
+}
+#page2-right{
+    width: 50%;
+    background-color: #d4a112;
+    height: 100%
+    
+     <div class="flexy">
+                        <h2>web3</h2>
+                        <i class="ri-arrow-right-up-line"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sunt praesentium aperiam laboriosam
+                        eum harum neque, voluptates provident doloribus iste? Voluptatem corrupti qui fugit quis
+                        nesciunt itaque dignissimos fugiat iure?</p>
